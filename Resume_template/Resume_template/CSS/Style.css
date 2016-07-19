@@ -1,0 +1,50 @@
+﻿
+html
+{
+    width:100%;
+    height:100%;
+}
+body {
+    width:100%;
+    height:100%;
+    margin:0px;
+   font-family:"Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 14px;
+    padding: 30px;
+    background: #f5f5f5;
+
+}
+.content
+{
+    background-color:#fff;
+}
+.sidebar
+{
+    background-color:#42A8C0;
+}
+.contentcontainer
+{
+   padding: 50px;
+}
+div section
+{
+    margin-bottom:50px;
+}
+.sectiontitle
+{
+    margin-bottom:15px;
+    color:#2d7788;
+    font-size:25px;
+}
+.subsection
+{
+    margin-bottom:10px;
+}
+.subsectiontitle
+{
+        color: #3F4650;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom:10px;
+  
+}
